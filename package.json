@@ -1,7 +1,7 @@
 {
-  "name": "crud-backend-app",
+  "name": "grocery-list-backend-app",
   "version": "1.0.0",
-  "description": "Crud backend app",
+  "description": "grocery-list-backend-app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
